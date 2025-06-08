@@ -23,7 +23,7 @@ This repository showcases a comprehensive **Performance Testing framework** usin
 | **Taurus (BZT)**     | CLI-based performance automation       |
 | **Python + pip**     | To install and run Taurus              |
 | **BlazeMeter Plugin**| Record browser flows for JMeter export |
-| **Excel / Sheets**   | Manual analysis and reporting          |
+| **Excel**   | Manual analysis and reporting          |
 
 ---
 
