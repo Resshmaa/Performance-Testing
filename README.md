@@ -46,7 +46,7 @@ Magento-Performance-Testing/
 
 ---
 
-## Taurus CLI Execution
+## Taurus CLI Execution Commands
 
 ```bash
 python --version
