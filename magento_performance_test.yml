@@ -1,0 +1,11 @@
+execution:
+  - executor: jmeter
+    concurrency: 5
+    ramp-up: 10s
+    iterations: 1
+    scenario:
+      script: Magento-Performance-Testing.jmx
+
+reporting:
+  - module: final-stats
+  - module: console
